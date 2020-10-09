@@ -1,2 +1,2 @@
-Java Programming: Solving Problems with Software  
+Solving Problems with Software  
 All Projects are tested in IntelliJ
